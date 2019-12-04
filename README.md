@@ -1,5 +1,4 @@
 # Synthesthesia
 
-update readme.md
-...
-;
+github is confusin' 
+practice makes perfect

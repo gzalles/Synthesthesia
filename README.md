@@ -8,3 +8,6 @@ That's it. The backbone of the system will be Pd (one way or another) and the vi
 
 maybe this
 https://developers.google.com/cardboard/develop/c/quickstart
+
+site
+https://sites.google.com/ucsd.edu/synthesthesia/home

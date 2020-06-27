@@ -9,5 +9,7 @@ That's it. The backbone of the system will be Pd (one way or another) and the vi
 maybe this
 https://developers.google.com/cardboard/develop/c/quickstart
 
+as we see it VR is a three tiered market rn, there is cardboard, then gear VR, then oculus/vive. because of openXR it should be possible to export from Unity and build for any platform. this is not feasible in practice. it would likely be better to customize each app for the environment. at the moment we are exploring the cardboard experience. updates soon.
+
 site
 https://sites.google.com/ucsd.edu/synthesthesia/home

@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/wi2020/ball-pit-pseudo-sphere.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

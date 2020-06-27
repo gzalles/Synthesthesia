@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Tests/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/Synthesthesia-v1.2.unity
+    guid: 851d8900cc984e84298476fa652c1651
+  - enabled: 0
+    path: Assets/Scenes/sp2019/Orbits.unity
+    guid: 9975cd5c3403fe2428f8639d420c632e
+  - enabled: 0
+    path: Assets/Scenes/sp2019/Aliens.unity
+    guid: e9f85f553f927bf42b5882cf077b3173
+  - enabled: 0
+    path: Assets/Scenes/sp2019/Planets.unity
+    guid: 7de586015991b67438a4456a087adea7
+  - enabled: 1
+    path: Assets/Scenes/wi2020/ball-pit-pseudo-sphere.unity
+    guid: c219de544d65ec74fb94c919c4596741
+  m_configObjects: {}
